@@ -5,7 +5,7 @@
 }
 
 body, input, textarea {
-    font-family: "Roboto", sans-serif;
+    font-family: "Roboto Condensed", sans-serif;
     font-weight: 400;
     font-style: normal;
 }
@@ -24,9 +24,16 @@ header h1,
 section h2,
 section h3,
 form button {
-    font-family: "Bungee", sans-serif;
+    font-family: "Bebas Neue", sans-serif;
     font-weight: 400;
     font-style: normal;
+}
+
+header h1,
+section h2,
+section h3 {
+    color: #189f08;
+    /* font-weight: bold; */
 }
 
 header nav li {
